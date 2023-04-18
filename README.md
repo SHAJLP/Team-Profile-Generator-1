@@ -17,7 +17,7 @@ The user should clone the repository from GitHub and download Node. This applica
 
 ## Usage 
 Use inquirer from your command line to answer questions about your project.
-View walk through video here - [Screencastify](https://drive.google.com/file/d/view)<br>
+View walk through video here Uploading Screen Recording 2023-04-18 at 20.29.43.mov…- <br>
 <img src="./dist/img1.png">
 
 ## License 
