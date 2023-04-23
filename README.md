@@ -17,7 +17,7 @@ The user should clone the repository from GitHub and download Node. This applica
 
 ## Usage 
 Use inquirer from your command line to answer questions about your project.
-View walk through video here https://drive.google.com/file/d/16aSmznQ3MV1ZlWUzCRGEpUa2Np6K7wkw/view…- <br>
+View walk through video here[(https://drive.google.com/file/d/1YfQefmeUQT9-dTeNNNbPEb9pB1ONkGyz/view)-] <br>
 <img src="./dist/img1.png">
 
 ## License 
